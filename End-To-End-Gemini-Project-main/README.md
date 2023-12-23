@@ -22,6 +22,8 @@ Gemini Pro Vision is an advanced computer vision model designed to analyze and u
 - Image Recognition: Identify objects, scenes, and patterns in images.
 - Advanced Analysis: Gain insights into visual data for various applications.
 
+  ##GET API KEY :"https://deepmind.google/technologies/gemini/#build-with-gemini"
+
 ## Getting Started
 
 1. Clone the repository to your local machine:
