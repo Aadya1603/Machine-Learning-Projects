@@ -1,6 +1,9 @@
+#GEMINI_CHATBOT
+
+ ## loading all the environment variables
 from dotenv import load_dotenv
 
-load_dotenv() ## loading all the environment variables
+load_dotenv() 
 
 
 import streamlit as st
