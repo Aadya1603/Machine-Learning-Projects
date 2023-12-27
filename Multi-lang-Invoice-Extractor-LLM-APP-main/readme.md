@@ -39,10 +39,6 @@ Welcome to the Multi-Language Invoice Generator repository! This project leverag
 
 We welcome contributions from the community! If you have ideas for new features, improvements, or language support, please open an issue or submit a pull request. Let's collaborate to enhance the capabilities of the Multi-Language Invoice Generator.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 A special thanks to the creators of the Gemini Vision Model for providing a powerful tool for computer vision applications.
