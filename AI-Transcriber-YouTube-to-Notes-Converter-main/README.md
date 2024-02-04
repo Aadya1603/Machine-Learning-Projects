@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 ## About the Author
 
-**Aadya Madankar** is a Data Science enthusiast with a passion for building AI-powered applications. With a strong background in mathematics and statistics, My aim is to leverage the latest technologies to solve real-world problems. Connect with Deependra on [LinkedIn](https://www.linkedin.com/in/aadyamadankar/).
+**Aadya Madankar** is a Data Science enthusiast with a passion for building AI-powered applications. With a strong background in mathematics and statistics, My aim is to leverage the latest technologies to solve real-world problems. Connect with Aadya on [LinkedIn](https://www.linkedin.com/in/aadyamadankar/).
 
 ## Contact Information
 
