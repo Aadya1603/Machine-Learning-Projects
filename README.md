@@ -25,6 +25,10 @@ This repository serves as your comprehensive resource for cutting-edge projects 
 5. **Multi-Language Invoice Analyzer** 🌐🧾
    - Analyze and process invoices in multiple languages for global transactions.
    - Leverage advanced language processing to extract and understand invoice details accurately.
+6. **AI-Transcriber-YouTube-to-Notes-Converter-main**
+   - Experience the future of transcription with AI-Transcriber-YouTube-to-Notes-Converter!
+   - Transform YouTube content into comprehensive notes effortlessly, harnessing the capabilities of AI to enhance your understanding and retention. 🤖📑
+
 
 ## Getting Started:
 
